@@ -1,8 +1,11 @@
-import { motion } from "framer-motion";
+import { motion } from "motion/react";
 
 export function Waveform() {
   return (
-    <svg viewBox="0 0 100 100" className="absolute inset-0 w-full h-full text-white/10">
+    <svg
+      viewBox="0 0 100 100"
+      className="absolute inset-0 w-full h-full text-white/10"
+    >
       {[0, 1, 2, 3].map((index) => (
         <motion.circle
           key={index}
