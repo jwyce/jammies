@@ -82,6 +82,10 @@ export function App() {
         name: "RatSpin",
         url: "https://cdn.betterttv.net/emote/62d05713d991a3e26c1281bb/3x.webp",
       },
+      {
+        name: "bongoTap",
+        url: "https://cdn.betterttv.net/emote/5ba6d5ba6ee0c23989d52b10/3x.webp",
+      },
     ],
     [],
   );
