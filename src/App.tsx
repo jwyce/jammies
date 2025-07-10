@@ -78,6 +78,10 @@ export function App() {
         name: "crabRave",
         url: "https://cdn.betterttv.net/emote/5dbaeed327360247dd64e03d/3x.webp",
       },
+      {
+        name: "RatSpin",
+        url: "https://cdn.betterttv.net/emote/62d05713d991a3e26c1281bb/3x.webp",
+      },
     ],
     [],
   );
